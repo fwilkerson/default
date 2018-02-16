@@ -8,7 +8,7 @@
 ## Documentation
 - This is a fork of the default template for [preact-cli](https://github.com/developit/preact-cli).
 - [For Preact](https://preactjs.com/): General information about how to work with Preact, not specific to this template
-- XO & Prettier for code style/linting
+- [XO](https://github.com/xojs/xo) & [Prettier](https://prettier.io/) for code style/linting
 
 
 ## Usage
